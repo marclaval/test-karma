@@ -1,0 +1,24 @@
+{
+  "name": "test-karma",
+  "version": "0.0.0",
+  "description": "test-karma",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlaval/test-karma"
+  },
+  "bugs": {
+    "url": "https://github.com/mlaval/test-karma/issues"
+  },
+  "homepage": "https://github.com/mlaval/test-karma",
+  "author": "Marc Laval <mlaval>",
+  "license": "Apache License Version 2.0",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "karma": "~0.13.10",
+    "karma-chrome-launcher": "~0.2.1",
+    "karma-jasmine": "~0.3.6"
+  }
+}
